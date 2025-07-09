@@ -86,7 +86,7 @@ df_timeline = pd.DataFrame(timeline_data)
 
 ![emergency_resources](https://github.com/user-attachments/assets/f12458fe-0036-47a7-90dc-8f090984b185)  
 
-### DNA Processing Progress  
+### 🧬 DNA Processing Progress  
 
 ![dna_processing_pie](https://github.com/user-attachments/assets/440c29fa-36b8-4de6-bdcf-b4e5e234ca9a)
 
